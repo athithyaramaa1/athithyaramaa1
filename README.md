@@ -4,7 +4,7 @@
 - 💞️ Open to collaborating on exciting software projects, opensource, cyber security.
 - 📫 Reach me at: vathithyaramaa@gmail.com.
 - ✨ Adaptable, Team player, Leadership, Public Speaking & Debating, Problem Solving, Agile Learner
-- - ⭐  Excellence in Complexity Unraveling, Visionary Technophile & Thinker
+- ⭐  Excellence in Complexity Unraveling; Visionary Technophile & Thinker
 - ⚡ Fun fact: I'm a swift learner with a remarkable memory, never stuck in the same problem twice!
 
 
