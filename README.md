@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athithya Ramaa</h1>
 <h3 align="center">A passionate Python & Front End Web developer</h3>
-<img align="right" alt-"hacking" width="360" src="https://i.makeagif.com/media/5-20-2018/iS2N04.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
 
