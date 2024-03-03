@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Athithya Ramaa</h1>
+<h1 align="center">Hello! I'm <span style="color:purple">Athithya Ramaa</span></h1>
 <h3 align="center">A passionate Python & Front End Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
