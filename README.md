@@ -1,3 +1,7 @@
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,11,20&height=180&section=header&text=👨‍💻%20Nayan%20Kumar%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ 
+<img src="https://yt3.ggpht.com/UW1l6kVno13e5hcsFu9h7hDCuDrJep_2vvQwa-7fgTmfcP1J85JfbUvpGH4Jvn3qSmRh5C8WhQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner"/>
+
 <h1 align="center">Hello! I'm <span color="purple">Athithya Ramaa</span></h1>
 <h3 align="center">A passionate Full Stack & Python developer</h3>
 
