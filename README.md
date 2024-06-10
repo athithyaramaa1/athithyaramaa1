@@ -2,7 +2,7 @@
  
 <img src="https://yt3.ggpht.com/UW1l6kVno13e5hcsFu9h7hDCuDrJep_2vvQwa-7fgTmfcP1J85JfbUvpGH4Jvn3qSmRh5C8WhQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner"/>
 
-<h1 align="center">Hello👋! I'm <span color="purple">Athithya Ramaa</span></h1>
+<h1 align="center">Hello! I'm <span color="purple">Athithya Ramaa</span></h1>
 <h3 align="center">A passionate Full Stack & Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
