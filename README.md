@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning **FullStack Web Development**
 
-- 🌱 I’m currently diving into **Python, C++, MERN Stack**
+- 🌱 I’m currently diving into **Python, C++, Java, MERN Stack**
 
 - 💞️ I’m looking to collaborate on **exciting software projects, opensource, cyber security**
 
